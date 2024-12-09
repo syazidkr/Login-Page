@@ -1,3 +1,25 @@
 body {
     font-family: Roboto;
 }
+
+body h1 {
+    font-size: 16;
+}
+
+body p {
+    font-size: 8;
+}
+
+#content {
+    background-color: red;
+    margin: 100px 300px;
+    padding: 100px;
+}
+
+.cover-sign-in {
+    display: "none"
+}
+
+.cover-sign-up {
+    display: "none"
+}
